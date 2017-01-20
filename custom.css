@@ -1,6 +1,8 @@
 body {font-family: 'Lora', Times New Roman, serif;}
 h1, h2, h3, h4, h5, h6 {font-family: 'Montserrat', Arial, sans-serif;}
-.site-header .site-title { 
+
+@media screen and (min-width: 56.875em) {
+  .site-header .site-title { 
   border: 0;
   font: 0/0 a;
   display: block;
@@ -25,6 +27,7 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Montserrat', Arial, sans-serif;}
 }
 
 .site-header-menu{
+  display: block;
   -webkit-flex: 0 1 auto;
   -ms-flex: 0 1 auto;
   flex: 0 1 auto;
@@ -33,4 +36,6 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Montserrat', Arial, sans-serif;}
 -webkit-align-items: center;
 -ms-flex-align: center;
 align-items: center;
+  }
 }
+
