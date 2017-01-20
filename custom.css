@@ -11,6 +11,11 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Montserrat', Arial, sans-serif;}
   background-repeat: no-repeat;
   width:200px; height: 250px;}
 .site-header .site-title a { display:block;width:200px; height: 250px;}
+.menu-toggle.toggled-on, .menu-toggle.toggled-on:hover, .menu-toggle.toggled-on:focus {
+    background-color: #002ea2;
+    border-color: #002ea2;
+    color: #fff;
+}
 
 @media screen and (min-width: 56.875em) {
   .site-header .site-title { 
