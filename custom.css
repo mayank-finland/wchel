@@ -9,3 +9,10 @@ background: url('https://2017.helsinki.wordcamp.org/files/2017/01/logo-sideways-
 background-size: 100%;
   background-repeat: no-repeat;
 width:393px; height: 300px;}
+
+.site-description{
+clip: rect(1px, 1px, 1px, 1px);
+position: absolute !important;
+height: 1px;
+width: 1px;
+  overflow: hidden;}
