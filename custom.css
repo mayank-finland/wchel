@@ -1,5 +1,15 @@
 body {font-family: 'Lora', Times New Roman, serif;}
 h1, h2, h3, h4, h5, h6 {font-family: 'Montserrat', Arial, sans-serif;}
+.site-header .site-title { 
+  border: 0;
+  font: 0/0 a;
+  display: block;
+  text-shadow: none;
+  color: transparent;
+  background: url('https://2017.helsinki.wordcamp.org/files/2017/01/cropped-logo-1.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width:200px; height: 250px;}
 
 @media screen and (min-width: 56.875em) {
   .site-header .site-title { 
