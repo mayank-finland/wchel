@@ -1,18 +1,20 @@
 body {font-family: 'Lora', Times New Roman, serif;}
 h1, h2, h3, h4, h5, h6 {font-family: 'Montserrat', Arial, sans-serif;}
-.site-header .site-title { border: 0;
-font: 0/0 a;
-display: block;
-text-shadow: none;
-color: transparent;
-background: url('https://2017.helsinki.wordcamp.org/files/2017/01/logo-sideways-1-e1484925029584.png');
-background-size: 100%;
+.site-header .site-title { 
+  border: 0;
+  font: 0/0 a;
+  display: block;
+  text-shadow: none;
+  color: transparent;
+  background: url('https://2017.helsinki.wordcamp.org/files/2017/01/logo-sideways-1-e1484925029584.png');
+  background-size: 100%;
   background-repeat: no-repeat;
-width:393px; height: 300px;}
+  width:393px; height: 300px;}
 
-.site-description{
-clip: rect(1px, 1px, 1px, 1px);
-position: absolute !important;
-height: 1px;
-width: 1px;
-  overflow: hidden;}
+.site-description {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
