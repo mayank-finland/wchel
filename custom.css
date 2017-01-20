@@ -10,6 +10,7 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Montserrat', Arial, sans-serif;}
   background-size: 100%;
   background-repeat: no-repeat;
   width:200px; height: 250px;}
+.site-header .site-title a { display:block;width:200px; height: 250px;}
 
 @media screen and (min-width: 56.875em) {
   .site-header .site-title { 
