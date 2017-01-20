@@ -16,7 +16,8 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Montserrat', Arial, sans-serif;}
     border-color: #002ea2;
     color: #fff;
 }
-
+.social-navigation a {
+  color: #002ea2;}
 @media screen and (min-width: 56.875em) {
   .site-header .site-title { 
   border: 0;
