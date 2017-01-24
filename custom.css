@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Montserrat', Arial, sans-serif;}
   background-repeat: no-repeat;
   width:200px; height: 250px;}
 .site-header .site-title a { display:block;width:200px; height: 250px;}
-.page-header { border-top: 4px solid #002ea2; }
+.page-header, .widget { border-top: 4px solid #002ea2; }
 
 .main-navigation a { color: #002ea2;}
 .menu-toggle.toggled-on, .menu-toggle.toggled-on:hover, .menu-toggle.toggled-on:focus {
