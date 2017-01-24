@@ -19,7 +19,8 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Montserrat', Arial, sans-serif; color: #00
     border-color: #002ea2;
     color: #fff;
 }
-input[type="submit"], .social-navigation a {
+input[type="submit"] {background: #002ea2;}
+.social-navigation a {
   color: #002ea2;
     border: 1px solid #002ea2;}
 .widget.widget_wpcom_social_media_icons_widget li a {color: #002ea2;}
